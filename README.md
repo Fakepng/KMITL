@@ -1,7 +1,6 @@
 # Bachelor of Engineering (IoT System and Information Engineering)
 
 > วิศวกรรมศาสตรบัณฑิต (วิศวกรรมระบบไอโอทีและสารสนเทศ)
-
 > More: [Website](https://www.iote.kmitl.ac.th/), [PDF](https://drive.google.com/file/d/1VUKRooxFdjAaf4ox0QikqLmvonMvnBB4/view?usp=sharing)
 
 ## Year 1/1 (1/2566)
