@@ -19,16 +19,16 @@
 
 ## Year 1/2 (2/2566)
 
-| รหัสวิชา |                    ชื่อวิชา                    |                           Link                            |
-| :------: | :--------------------------------------------: | :-------------------------------------------------------: |
-| 01006022 |               GENERAL PHYSICS 2                |                            ❌                             |
-| 01006023 |          GENERAL PHYSICS LABORATORY 2          | [genphy2-KMITL](https://github.com/Fakepng/genphy2-KMITL) |
-| 01006031 |                   CALCULUS 2                   |                            ❌                             |
-| 01236249 |      FUNDAMENTAL OF DIGITAL SYSTEM DESIGN      |                            ❌                             |
-| 01236257 | OBJECT-ORIENTED PROGRAMMING AND DATA STRUCTURE |     [OOP-KMITL](https://github.com/Fakepng/OOP-KMITL)     |
-| 90642036 |          PRE-ACTIVITIES FOR ENGINEERS          |                            ❌                             |
-| 90642171 |                 TEAM-PROJECT 1                 | [Project-Durian](https://github.com/Team-Project-Durian)  |
-| 90642999 |                  CHARM SCHOOL                  |                            ❌                             |
+| รหัสวิชา |                    ชื่อวิชา                    |                                 Link                                  |
+| :------: | :--------------------------------------------: | :-------------------------------------------------------------------: |
+| 01006022 |               GENERAL PHYSICS 2                |                                  ❌                                   |
+| 01006023 |          GENERAL PHYSICS LABORATORY 2          |       [genphy2-KMITL](https://github.com/Fakepng/genphy2-KMITL)       |
+| 01006031 |                   CALCULUS 2                   |                                  ❌                                   |
+| 01236249 |      FUNDAMENTAL OF DIGITAL SYSTEM DESIGN      | [DigitalSystem-KMITL](https://github.com/Fakepng/DigitalSystem-KMITL) |
+| 01236257 | OBJECT-ORIENTED PROGRAMMING AND DATA STRUCTURE |           [OOP-KMITL](https://github.com/Fakepng/OOP-KMITL)           |
+| 90642036 |          PRE-ACTIVITIES FOR ENGINEERS          |                                  ❌                                   |
+| 90642171 |                 TEAM-PROJECT 1                 |       [Project-Durian](https://github.com/Team-Project-Durian)        |
+| 90642999 |                  CHARM SCHOOL                  |                                  ❌                                   |
 
 ## Year 2/1 (2/2566)
 
@@ -40,4 +40,4 @@
 | 01236256 |         MICROCONTROLLER AND EMBEDDED SYSTEMS         | [MICROCONTROLLER-KMITL](https://github.com/Fakepng/MICROCONTROLLER-KMITL) |
 | 01236258 |             PRINCIPLES OF COMMUNICATIONS             |         [PRINCOM-KMITL](https://github.com/Fakepng/PRINCOM-KMITL)         |
 | 01236260 |           CYBER-PHYSICAL SYSTEM AND SENSOR           |          [SENSOR-KMITL](https://github.com/Fakepng/SENSOR-KMITL)          |
-| 90641007 |                   DIGITAL CITIZEN                    |                                    ❌                                     |
+| 90641007 |                   DIGITAL CITIZEN                    |  [DigitalCitizen-KMTIL](https://github.com/Fakepng/DigitalCitizen-KMTIL)  |
