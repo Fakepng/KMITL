@@ -27,7 +27,7 @@
 | 01236249 |      FUNDAMENTAL OF DIGITAL SYSTEM DESIGN      |                            ❌                             |
 | 01236257 | OBJECT-ORIENTED PROGRAMMING AND DATA STRUCTURE |     [OOP-KMITL](https://github.com/Fakepng/OOP-KMITL)     |
 | 90642036 |          PRE-ACTIVITIES FOR ENGINEERS          |                            ❌                             |
-| 90642171 |                 TEAM-PROJECT 1                 |                            ❌                             |
+| 90642171 |                 TEAM-PROJECT 1                 | [Project-Durian](https://github.com/Team-Project-Durian)  |
 | 90642999 |                  CHARM SCHOOL                  |                            ❌                             |
 
 ## Year 2/1 (2/2566)
@@ -36,7 +36,7 @@
 | :------: | :--------------------------------------------------: | :-----------------------------------------------------------------------: |
 | 01006032 | ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA |                                    ❌                                     |
 | 01236200 |                ENGINEERING STATISTICS                |                                    ❌                                     |
-| 01236250 |                ELECTROMAGNETIC FIELDS                |                                    ❌                                     |
+| 01236250 |                ELECTROMAGNETIC FIELDS                |            [EMag-KMITL](https://github.com/Fakepng/EMag-KMITL)            |
 | 01236256 |         MICROCONTROLLER AND EMBEDDED SYSTEMS         | [MICROCONTROLLER-KMITL](https://github.com/Fakepng/MICROCONTROLLER-KMITL) |
 | 01236258 |             PRINCIPLES OF COMMUNICATIONS             |         [PRINCOM-KMITL](https://github.com/Fakepng/PRINCOM-KMITL)         |
 | 01236260 |           CYBER-PHYSICAL SYSTEM AND SENSOR           |          [SENSOR-KMITL](https://github.com/Fakepng/SENSOR-KMITL)          |
