@@ -38,6 +38,19 @@
 | 01236200 |                ENGINEERING STATISTICS                |                                    ❌                                     |
 | 01236250 |                ELECTROMAGNETIC FIELDS                |            [EMag-KMITL](https://github.com/Fakepng/EMag-KMITL)            |
 | 01236256 |         MICROCONTROLLER AND EMBEDDED SYSTEMS         | [MICROCONTROLLER-KMITL](https://github.com/Fakepng/MICROCONTROLLER-KMITL) |
+|          |                                                      |     [SmartHouseX-KMITL](https://github.com/Fakepng/SmartHouseX-KMITL)     |
 | 01236258 |             PRINCIPLES OF COMMUNICATIONS             |         [PRINCOM-KMITL](https://github.com/Fakepng/PRINCOM-KMITL)         |
 | 01236260 |           CYBER-PHYSICAL SYSTEM AND SENSOR           |          [SENSOR-KMITL](https://github.com/Fakepng/SENSOR-KMITL)          |
 | 90641007 |                   DIGITAL CITIZEN                    |  [DigitalCitizen-KMTIL](https://github.com/Fakepng/DigitalCitizen-KMTIL)  |
+
+## Year 2/2 (2/2567)
+
+| รหัสวิชา |               ชื่อวิชา               | Link |
+| :------: | :----------------------------------: | :--: |
+| 01236251 |         DISCRETE MATHEMATICS         |  ❌  |
+| 01236259 | IOT NETWORKS AND DATA COMMUNICATIONS |  ❌  |
+| 01236261 |    MOBILE APPLICATION DEVELOPMENT    |  ❌  |
+| 01236262 |          INTERACTION DESIGN          |  ❌  |
+| 01236265 |        CYBER SECURITY SYSTEMS        |  ❌  |
+| 90642172 |            TEAM-PROJECT 2            |  ❌  |
+| 90644012 |      ENGLISH FOR COMMUNICATION       |  ❌  |
