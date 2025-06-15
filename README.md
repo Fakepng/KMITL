@@ -45,12 +45,17 @@
 
 ## Year 2/2 (2/2567)
 
-| รหัสวิชา |               ชื่อวิชา               | Link |
-| :------: | :----------------------------------: | :--: |
-| 01236251 |         DISCRETE MATHEMATICS         |  ❌  |
-| 01236259 | IOT NETWORKS AND DATA COMMUNICATIONS |  ❌  |
-| 01236261 |    MOBILE APPLICATION DEVELOPMENT    |  ❌  |
-| 01236262 |          INTERACTION DESIGN          |  ❌  |
-| 01236265 |        CYBER SECURITY SYSTEMS        |  ❌  |
-| 90642172 |            TEAM-PROJECT 2            |  ❌  |
-| 90644012 |      ENGLISH FOR COMMUNICATION       |  ❌  |
+| รหัสวิชา |               ชื่อวิชา               |                              Link                               |
+| :------: | :----------------------------------: | :-------------------------------------------------------------: |
+| 01236251 |         DISCRETE MATHEMATICS         |                               ❌                                |
+| 01236259 | IOT NETWORKS AND DATA COMMUNICATIONS |    [DataCom-KMITL](https://github.com/Fakepng/DataCom-KMITL)    |
+| 01236261 |    MOBILE APPLICATION DEVELOPMENT    |           [git101](https://github.com/Fakepng/git101)           |
+|          |                                      |            [mygit](https://github.com/Fakepng/mygit)            |
+|          |                                      |   [Github Page](https://github.com/Fakepng/fakepng.github.io)   |
+|          |                                      |        [sushishop](https://fakepng.github.io/sushishop)         |
+|          |                                      |     [Group Webpage](https://fakepng.github.io/G9/home.html)     |
+|          |                                      | [Project](https://github.com/Fakepng/mobile-app-frontend-KMITL) |
+| 01236262 |          INTERACTION DESIGN          |                               ❌                                |
+| 01236265 |        CYBER SECURITY SYSTEMS        |                               ❌                                |
+| 90642172 |            TEAM-PROJECT 2            |     [DressSense-KMITL](https://github.com/DressSense-KMITL)     |
+| 90644012 |      ENGLISH FOR COMMUNICATION       |                               ❌                                |
