@@ -56,3 +56,15 @@
 | 01236265 |        CYBER SECURITY SYSTEMS        |                             ❌                              |                                                                 |
 | 90642172 |            TEAM-PROJECT 2            |   [DressSense-KMITL](https://github.com/DressSense-KMITL)   |                                                                 |
 | 90644012 |      ENGLISH FOR COMMUNICATION       |                             ❌                              |                                                                 |
+
+## Year 3/1 (1/2568)
+
+| รหัสวิชา |                ชื่อวิชา                 | Link |
+| :------: | :-------------------------------------: | :--: |
+| 01236264 |    ARTIFICIAL INTELLGIENCE OF THINGS    |  ❌  |
+| 01236252 |      MATHEMATICS FOR DATA SCIENCE       |  ❌  |
+| 0123xxxx | IoT AND INFORMATION MANDAROTY ELECTIVE  |  ❌  |
+| 0123xxxx | IoT AND INFORMATION MANDAROTY ELECTIVE  |  ❌  |
+| 01236266 | IoT SYSTEM AND INFORMATION LABORATORY 1 |  ❌  |
+| 01236268 |       SEMINAR WITH PROFESSIONALS        |  ❌  |
+| 90xxxxxx |            GENERAL EDUCATION            |  ❌  |
