@@ -68,3 +68,20 @@
 | 01236266 | IoT SYSTEM AND INFORMATION LABORATORY 1 |                                 ❌                                 |
 | 01236268 |       SEMINAR WITH PROFESSIONALS        |                                 ❌                                 |
 | 90644017 |          ENGLISH FOR BUSINESS           |                                 ❌                                 |
+
+## Year 3/2 (2/2568)
+
+| รหัสวิชา |                ชื่อวิชา                 |                                          Link                                          |
+| :------: | :-------------------------------------: | :------------------------------------------------------------------------------------: |
+| 01236263 |      INDUSTRIAL INTERNET OF THINGS      |                                           ❌                                           |
+| 01236267 | IoT SYSTEM and INFORMATION LABORATORY 2 |                    [GitHub](https://github.com/Fakepng/IIOT-KMITL)                     |
+| 01236331 |        EMBEDDED OPERATING SYSTEM        |                                           ❌                                           |
+| 90642173 |             TEAM-PROJECT 3              |                [GitHub Backend](https://github.com/Fakepng/NEMO-KMITL)                 |
+|          |                                         |                [GitHub Frontend](https://github.com/Fakepng/WOW-KMITL)                 |
+| 90642211 |           CODING WITH PYTHON            | [GitHub](https://github.com/Fakepng/discovery-piscine-coding-with-python-2026-Fakepng) |
+
+## Year 3/3 (3/2568)
+
+| รหัสวิชา |      ชื่อวิชา       | Link |
+| :------: | :-----------------: | :--: |
+| 01006004 | INDUSTRIAL TRAINING |  ❌  |
