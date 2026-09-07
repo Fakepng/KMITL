@@ -94,4 +94,3 @@
 | 01236404 | SELECTED TOPIC IN IOT SYSTEM AND INFORMATION ENGNEERING |  ❌  |
 | 01236433 |                CLOUD AND DEVOPS CONCEPTS                |  ❌  |
 | 01236442 |         ADVANCED IoT AND EMBEDDED SYSTEM DESIGN         |  ❌  |
-| 90643023 |                     TECHNOPRENEURS                      |  ❌  |
